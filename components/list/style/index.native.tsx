@@ -63,8 +63,6 @@ export default {
     textAlignVertical: 'center',
   },
   Extra: {
-    textAlign: 'right',
-    textAlignVertical: 'center',
   },
   Brief: {
     minHeight: variables.font_size_icontext,
